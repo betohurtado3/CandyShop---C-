@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1569966105 source:c:\users\pc\pictures\candyshop\main.cpp
+	<iostream>
+	"Productos.h"
+	"Proveedor.h"
+	"Orden.h"
+	"Clientes.h"
+
+1569965658 source:c:\users\pc\pictures\candyshop\src\productos.cpp
+	"Productos.h"
+
+1569467014 c:\users\pc\pictures\candyshop\include\productos.h
+	<iostream>
+	<fstream>
+	<string.h>
+
+1569467951 c:\users\pc\pictures\candyshop\include\proveedor.h
+	<iostream>
+	<fstream>
+	<string.h>
+
+1569468562 source:c:\users\pc\pictures\candyshop\src\proveedor.cpp
+	"Proveedor.h"
+
+1569469366 c:\users\pc\pictures\candyshop\include\orden.h
+
+1570490322 c:\users\pc\pictures\candyshop\include\clientes.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<vector>
+	<sstream>
+
+1569966105 source:c:\users\betoh\desktop\candyshop\main.cpp
+	<iostream>
+	"Productos.h"
+	"Proveedor.h"
+	"Orden.h"
+	"Clientes.h"
+
+1569467014 c:\users\betoh\desktop\candyshop\include\productos.h
+	<iostream>
+	<fstream>
+	<string.h>
+
+1569467951 c:\users\betoh\desktop\candyshop\include\proveedor.h
+	<iostream>
+	<fstream>
+	<string.h>
+
+1569469366 c:\users\betoh\desktop\candyshop\include\orden.h
+
+1569966083 c:\users\betoh\desktop\candyshop\include\clientes.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<vector>
+	<sstream>
+
+1569965658 source:c:\users\betoh\desktop\candyshop\src\productos.cpp
+	"Productos.h"
+
+1569468562 source:c:\users\betoh\desktop\candyshop\src\proveedor.cpp
+	"Proveedor.h"
+
